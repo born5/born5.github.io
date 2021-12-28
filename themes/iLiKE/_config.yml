@@ -1,0 +1,56 @@
+
+# html lang
+language: zh-CN
+
+# main menu navigation
+menu:
+  Home: /
+  Archives: /archives
+  About: /about
+
+# Social
+social:
+  email:
+  stack-overflow:
+  twitter:
+  facebook:
+  linkedin:
+  google:
+  github:
+  weibo:
+  douban:
+  zhihu:
+  jianshu:
+  pocket:
+  tumblr:
+  instagram:
+
+# Miscelaneous
+#favicon: /favicon.ico
+favicon: /born.png
+
+# stylesheets loaded in the <head>
+stylesheets:
+- /css/iLiKE.css
+
+# scripts loaded in the end of the body
+scripts:
+- /js/iLiKE.js
+
+# Site creation time
+# since: 2017
+
+# Blog auto_excerpt
+auto_excerpt:
+  enable: true
+  length: 150
+
+
+# ===========================================
+# Third Party Services Settings
+# ===========================================
+
+# LeanCloud
+leancloud:
+  app_id: 6E5zTbTljdUbVW2WkXPsXGJk-gzGzoHsz
+  app_key: 0vsyDKfNpeSECAI70J794ugv
