@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: https://born5.github.io/
+title: born
 subtitle: ''
 description: ''
 keywords:
@@ -81,7 +81,7 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
-updated_option: 'date'
+updated_option: 'mtime'
 
 # Pagination
 ## Set per_page to 0 to disable pagination
